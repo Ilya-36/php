@@ -1,8 +1,11 @@
 <?php
 
 defined('VG_ACCESS') or die('Access denied');
-echo 'hello';
 
-echo '111';
-echo 'hello';
-echo 'hi';
+const SITE_URL = 'http://php.local';
+const PATH = '/';
+
+const HOST = 'localhost';
+const USER = 'root';
+const PASS = '';
+const DB_NAME = 'phpdb';
